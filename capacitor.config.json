@@ -1,0 +1,9 @@
+{
+  "appId": "com.mihtam.dienbang",
+  "appName": "Điền bảng",
+  "webDir": "www",
+  "server": {
+    "url": "https://mihtam0307.github.io/dien-bang/",
+    "errorPath": "error.html"
+  }
+}
